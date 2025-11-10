@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alesus\\OneDrive\\Documentos\\Ejercicio_de_FA\\Ejercicio_Semana12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6165EC-E6D4-4F8A-B3C1-F20C2A503523}|Ejercicio_Semana12.csproj|c:\\users\\alesus\\onedrive\\documentos\\ejercicio_de_fa\\ejercicio_semana12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6165EC-E6D4-4F8A-B3C1-F20C2A503523}|Ejercicio_Semana12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alesus\\OneDrive\\Documentos\\Ejercicio_de_FA\\Ejercicio_Semana12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alesus\\OneDrive\\Documentos\\Ejercicio_de_FA\\Ejercicio_Semana12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T01:07:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
